@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Registre		TAR	1001	nouvelle taille enregistrement : 1001
+Registre		IDE-*		fichier sans identifiant
+Registre	IDResgistre	CNW	UUID (128 bits)$Identifiant automatique (4 octets)	la rubrique IDResgistre a pour nouveau type UUID (128 bits)

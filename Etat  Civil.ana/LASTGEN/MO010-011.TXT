@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Registre		IDE+*		fichier avec identifiant
+Registre	IDResgistre	CNW	UUID automatique (128 bits)$UUID (128 bits)	la rubrique IDResgistre a pour nouveau type UUID automatique (128 bits)
+Residence		TAR	661	nouvelle taille enregistrement : 661
+Residence	IDResidence	CNW	UUID automatique (128 bits)$Identifiant automatique (8 octets)	la rubrique IDResidence a pour nouveau type UUID automatique (128 bits)

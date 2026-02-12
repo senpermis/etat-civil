@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Residence		TAR	653	nouvelle taille enregistrement : 653
+Residence	Depuis	NNR	DateResidence	ATTENTION : la rubrique DateResidence a pour nouveau nom Depuis
+Residence	Depuis	CNW	Chaîne$Date (aaaammjj)	la rubrique Depuis a pour nouveau type Chaîne

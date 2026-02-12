@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Registre		NFI		nouveau fichier
+Residence		NFI		nouveau fichier
+ConnexionDB		CNX+		
+Registre		FRN		

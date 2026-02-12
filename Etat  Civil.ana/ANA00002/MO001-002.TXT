@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Residence		TAR	560	nouvelle taille enregistrement : 560
+Residence	DateModification	RUB+		DateModification est une nouvelle rubrique
+Residence	CreerPar	RUB+		CreerPar est une nouvelle rubrique
+Residence	ModifierPar	RUB+		ModifierPar est une nouvelle rubrique
