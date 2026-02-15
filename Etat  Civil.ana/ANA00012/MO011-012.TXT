@@ -1,0 +1,6 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Document_type		NFI		nouveau fichier
+Tarif_document		NFI		nouveau fichier
+Mode_paiement		NFI		nouveau fichier
+Paiement		NFI		nouveau fichier
+Document_administratif		NFI		nouveau fichier
